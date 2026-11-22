@@ -653,7 +653,13 @@
       "url": "https://livetv.shamon-cable.net/proxy/proxy.php?id=ea782608f6d301952d43cb947c642731d254",
       "logo": "",
       "enabled": true
-    }    
+    },
+       {
+  "name": "T Sports HD",
+  "url": "https://livetv.shamon-cable.net/proxy/proxy.php?id=af07cb4780ef0d0095e2a7e1fde31f331178",
+  "logo": "",
+  "enabled": true
+}
   ]
 }
       
