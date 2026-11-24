@@ -1,4 +1,52 @@
 {
-  "title": "Special",
-  "playlistUrl": "https://go.skym3u.dev/roh8gh.m3u?s=6a13"
+  "channels": [
+    {
+      "name": "Somoy TV • YouTube Live",
+      "url": "https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/live",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Jamuna TV • YouTube Live",
+      "url": "https://www.youtube.com/channel/UCN6sm8iHiPd0cnoUardDAnw/live",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Channel 24 • YouTube Live",
+      "url": "https://www.youtube.com/channel/UCHLqIOMPk20w-6cFgkA90jw/live",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "ATN News Live • YouTube",
+      "url": "https://www.youtube.com/channel/UCKlhfq1ILoAFav7iw5iCnfA/live",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "NTV News • YouTube Live",
+      "url": "https://www.youtube.com/channel/UCUDQdVsKssximyFwg4IxnOQ/live",
+      "logo": "https://i.imgur.com/l75bDTx.png",
+      "enabled": true
+    },
+    {
+      "name": "NTV Natok • YouTube Live",
+      "url": "https://www.youtube.com/channel/UCsjSRfeVFmJcps2Bki1dRCw/live",
+      "logo": "https://i.imgur.com/l75bDTx.png",
+      "enabled": true
+    },
+    {
+      "name": "BanglaVision Live • YouTube",
+      "url": "https://www.youtube.com/channel/UCAIEufoszs1J38-pKECORRg/live",
+      "logo": "https://i.imgur.com/nCWgp38.png",
+      "enabled": true
+    },
+    {
+      "name": "Bongo • YouTube Live",
+      "url": "https://www.youtube.com/channel/UC9nuJbEL-AMJLLqc2-ej8xQ/live",
+      "logo": "",
+      "enabled": true
+    }
+  ]
 }
