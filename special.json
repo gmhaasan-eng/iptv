@@ -1,6 +1,398 @@
 {
   "channels": [
     {
+      "name": "Unknown Channel 01",
+      "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 02",
+      "url": "https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/096daf75-2a7c-4b02-b8af-67c25becac28/5.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 03",
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 04",
+      "url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Live Bangla TV",
+      "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "BHI Channel",
+      "url": "https://server.livelegitpro.in/bhichannel/bhichannel/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 05",
+      "url": "https://xtream.kbhub.online/live/kblivetv/kblivetv/23306.ts",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Discover Pakistan",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Documentary",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 06",
+      "url": "https://nkafmbewiff.gpcdn.net/tile_1/1080p.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 07",
+      "url": "https://live1.entertv.com.bd/entertv/tracks-a1/index.fmp4.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Enterr 10 Bangla",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 08",
+      "url": "https://d1fodel5fjpe8b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-68r9vf9490xt2/acbf96ca-653c-48b5-9885-f8317b36cc91/0.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "G Series Drama",
+      "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Gazi TV",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1339238563",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "Goldmines",
+      "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Movies",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 09",
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 10",
+      "url": "https://cc-szrmqvu8zkg16.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/632c3230-5455-440e-a5cc-3d3340a340d8/0.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 11",
+      "url": "https://j6nfugukcl.gpcdn.net/tile_2/1080p.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 12",
+      "url": "https://j6nfugukcl.gpcdn.net/tile_3/1080p.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Iqra Bangla TV",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Religious",
+      "enabled": true
+    },
+    {
+      "name": "Jalsha Bangla",
+      "url": "https://dish.porosh.com.bd/hls/jalshabangla.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "KTV Bangla",
+      "url": "https://server1.jadubd.com/ktvbangla/ktvbangla/chunklist_w137822637.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Kairali TV",
+      "url": "https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 13",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/tracks-v1a1/mono.ts.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 14",
+      "url": "https://cdn.pishow.tv/ott/live/1147/1147_0.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "MatribhumI TV",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "ME TV",
+      "url": "https://iptvbd.live/metv1080/1080.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 15",
+      "url": "https://cdn.pishow.tv/ott/live/10012/10012_1.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "NRB TV",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 16",
+      "url": "https://cdn.pishow.tv/ott/live/1499/1499_1.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "PTC Punjabi Gold",
+      "url": "https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Prime TV",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Pulari TV",
+      "url": "https://mumbai-edge.smartplaytv.in/PulariTV/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "The Q",
+      "url": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "R Plus Gold",
+      "url": "https://stream.ottlive.co.in/rplusgold/tracks-v3a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Rajdhani Cable TV",
+      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "Rana Cable TV",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Bangla",
+      "enabled": true
+    },
+    {
+      "name": "Rongeen TV",
+      "url": "https://stream.ottlive.co.in/rongeentv/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 17",
+      "url": "http://2071366.3259760735.gulfnova.co/live/sree1602/9196sree/198.ts?token=ShJcU0BbQQNHWwUMDlVXC1wGCAAEV11YCFQEBFBcCgpVVAMABFdXD1AbGBpEF0dcWF1vWQIXXlAIWk4VEBdWQG5ZUBAJEVEJUggHDgFBGRtNWV1VRA9VVghXVwNVXAMFHRJEW1cRWRtXDwcLAlsHGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR14RdV1fVlNfEyBWCFRBVl4AVE1QX14SShcGCEUQA0MARgkQBQAEBxEfQVoKTFpMRRoXAxtydBJKFwEZRQcMRAwLXRALEkBBER9BUBZmRl1EF0dcWF1VQkQPRlETTkBaBBxsUV5eWldQRwpWC0oWAhVSFxUbXV9eD0ELE24SC1NHXhEECQEABgMRTxsQTF1cFVkXCgBRUlJfDFRWBloAVlEFCwoFCARTUVVbAVJaBAwDVQ0bRA==",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 18",
+      "url": "http://filex.me:8080/live/3114654477/5787654467/955390.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 19",
+      "url": "http://1716770.2734259971.growthtry.com/live/1Aoen7elp5/IgMJ60tmAa/23218.ts?token=ShJcU0BbQQNHXQMLAVpTDAkAAwZSAVZUBQZRDwMGUFQBUlBXC1AFCVwbGBpEF0dcWF1vWQIXXlMCUFMPSUZGQVRCa1tXEVkbVA4FDgBUBRsVEkRZC1BGWwBVWwJQUAMKCQUYEENaBxtfGwIJB1sFDhscElUeQQETXwMOaAEBRVtSVRYIXUYPVUkbW1ZoB1BUWF5UElwXVEMdQAtEFUYJEHZcW1BSX0N6ClRZTVkKVlhNWV9eRBlGA1gWEFYRAREIEwEGBwcRTxsGVkFWQxFMGwMScnREGUYESRYHWRYNXFwTChZGQBFPGwxKa0pSEEFLXFFdVRQXXkMBQE4VCAVLbVJfWlxWUBdQCldHGg1BBBsVEl1fCFwQDkM9El4BRgkQAAAGBQsBWhtJG0FNXgcXAxsJUwNVAlFYA1tXVARXUgpTVg1RUQQBDVMIV1lUUQRaDRJN",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Shemaroo TV",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Shemaroo Umang",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Sony Aath",
+      "url": "http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Sony HD (unverified)",
+      "url": "http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 20",
+      "url": "http://filex.me:8080/live/3114654477/5787654467/56.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 21",
+      "url": "http://topabotv.xyz/live/006a9d4c69/2ae3f18e5b29/281265.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Life OK UK",
+      "url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Star Plus UK",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 22",
+      "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Tara TV",
+      "url": "https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Thikana TV",
+      "url": "https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w447451332.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Zee Bangla",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 23",
+      "url": "http://1716770.2734260009.growthtry.com/live/1Aoen7elp5/IgMJ60tmAa/410.ts?token=ShJcU0BbQQNHCwIIVgcGCV9TUQBUUAZRA1ZbUgMBBwdTVVUKVQZbDVEbGBpEF0dcWF1vWQIXXlUAUk4VEBdWQG5ZUBAJEVIOVA8DDwdBGRtNWV1VRA9VVghXVwNUUAcDHRJEW1cRWRtXCAEAAVQBGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR14RdV1fVlNfEyBWCFRBVl4AVE1QX14SShcGCEUQA0MARgkQAAMHCxEfQVoKTFpMRRoXAxtydBJKFwEZRQcMRAwLXRALEkBBER9BUBZmRl1EF0dcWF1VQkQPRlETTkBaBBxsUV5eWldQRwpWC0oWAhVSFxUbXV9eD0ELE24SC1NHXhEDAAgHAgYAQRVHTEFRU0EPG1xUAlNeVldRAVAHVAMBVgJXBFICVwYFCgRdA15WAFEMG00=",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Unknown Channel 24",
+      "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/410.ts",
+      "logo": "",
+      "group": "Uncategorized",
+      "enabled": true
+    },
+    {
+      "name": "Zingabad",
+      "url": "https://stream.ottlive.co.in/zingabad/tracks-v3a1/mono.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "enabled": true
+    }
+    {
       "name": "Somoy TV • YouTube Live",
       "url": "https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/live",
       "logo": "",
