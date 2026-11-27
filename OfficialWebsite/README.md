@@ -19,7 +19,7 @@ No package installation is required. The website uses only the files generated i
 - Framework preset: None
 - Build command: `node build.mjs && node verify.mjs`
 - Build output directory: `dist`
-- Production branch: `main`
+- Production branch: `gmltv-official-website`
 - Optional `SITE_URL`: the actual public Pages origin if the hostname differs from `gmltv.pages.dev`.
 
 Use a feature branch for preview. The Pages project has no Worker or database bindings. The source belongs in this separate folder so the playlist files remain independent.
