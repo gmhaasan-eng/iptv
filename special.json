@@ -70,6 +70,34 @@
       "group": "Uncategorized",
       "enabled": true
     },
+      {
+      "name": "AXN BLACK",
+      "url": "http://50.7.120.34:8080/AXN_BLACK/tracks-v1a1/mono.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1206/lg/4adf47/LG-400x225_v1.png",
+      "group": "Special",
+      "enabled": true
+    },
+    {
+      "name": "Channel 210 - Source 1",
+      "url": "http://1598364.1567738636.growthtry.com/live/4dfoydR2gZ/clever3still/210.ts?token=ShJcU0BbQQNHDFEPD1QFW18DBgMEVlACUlAHAVRUBQJUUQNWAAAHClAbGBpEF0dcWF1vWQIXXlMAUk4VEBdWQG5ZUBAJEVIMXAEHDgNBGRtNWV1VRA9VVghXWgddVgoLHRJEW1cRWRtdDAMNBFEXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVX0Z0Xl5SVV4TcAxUCExaUVQCQVBWXhIcRFcNFUMDFlJHXhEDCQgMEB8RAFYQV0BKTkEPG3t0EhxEUBwVVAwRXgoKEQgTREcQHxEKSjpLUUtDEVBYVFVCElwXVEMdQA9WHTtQXV9eUVFHWgxXFhsOGgZBGRtUX15ZEloWPkELBhVfRgIHBQMBAgoRTxsQTF1cFVkXWwAACQFXUVJWBwFWBFVWUFEGBVVTCwRbAVEOVQwEAlYbRA==",
+      "logo": "",
+      "group": "Special",
+      "enabled": true
+    },
+    {
+      "name": "Channel 210 - Source 2",
+      "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/210.ts",
+      "logo": "",
+      "group": "Special",
+      "enabled": true
+    },
+    {
+      "name": "Channel 9384",
+      "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts",
+      "logo": "",
+      "group": "Special",
+      "enabled": true
+    },
     {
       "name": "Enterr 10 Bangla",
       "url": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/tracks-v1a1/mono.m3u8",
